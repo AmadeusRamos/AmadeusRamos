@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AmadeusRamos
 - 👀 I’m interested in learning new things every day. I find very interesting to wake every day and have the chance to take the world in my hands.
-- 🌱 I’m currently learning Java with Alura and Oracle, also R and VBA to create macros that I use in my day to day.
-- 😄 Pronouns: Sociable, commited pupil, intelligent and hard worker.
+- 🌱 I’m currently learning GIS Programming with the ✨book of Dr. Wu.✨
+- 😄 Pronouns: Sociable, happy, commited.
 
 
 <!---
